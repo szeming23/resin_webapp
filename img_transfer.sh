@@ -1,1 +1,0 @@
-mv /mnt/c/Users/Koi\ Sze\ Ming/Pictures/resin_imgs/* /home/szeming/personal/resin/resin_imgs
